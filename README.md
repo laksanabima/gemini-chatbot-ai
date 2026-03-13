@@ -23,7 +23,7 @@ AI Doctor Assistant adalah aplikasi chatbot kesehatan yang menggunakan Google Ge
 
 1. **Clone repository ini:**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:laksanabima/gemini-chatbot-ai.git
    cd gemini-chatbot-api
    ```
 
@@ -53,7 +53,7 @@ AI Doctor Assistant adalah aplikasi chatbot kesehatan yang menggunakan Google Ge
    ```
 
 2. **Buka browser:**
-   - Kunjungi `http://localhost:8989` (atau port yang Anda konfigurasikan)
+   - Kunjungi `http://localhost:3000` (atau port yang Anda konfigurasikan)
    - Anda akan melihat antarmuka chatbot AI Doctor Assistant
 
 ## Penggunaan
