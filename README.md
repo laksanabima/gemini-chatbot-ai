@@ -103,3 +103,6 @@ Anda dapat menyesuaikan perilaku aplikasi melalui file `.env`:
 ## Dukungan
 
 Jika Anda memiliki pertanyaan atau masalah, silakan buat issue di repository atau hubungi maintainer.
+
+
+<img src="https://i.ibb.co.com/0RrtgwgG/Screenshot-2026-03-13-at-21-41-22.png" alt="Screenshot-2026-03-13-at-21-41-22" border="0">
