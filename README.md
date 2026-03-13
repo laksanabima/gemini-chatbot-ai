@@ -40,7 +40,7 @@ AI Doctor Assistant adalah aplikasi chatbot kesehatan yang menggunakan Google Ge
    - Edit file `.env` dan isi dengan informasi yang diperlukan:
      ```
      GEMINI_API_KEY=your_google_gemini_api_key_here
-     PORT=8989
+     PORT=3000
      AI_TEMPERATURE=0.9
      AI_SYSTEM_PROMPT=
      ```
