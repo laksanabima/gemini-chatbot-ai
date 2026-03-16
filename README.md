@@ -90,7 +90,7 @@ gemini-chatbot-api/
 Anda dapat menyesuaikan perilaku aplikasi melalui file `.env`:
 
 - `GEMINI_API_KEY`: API key dari Google Gemini (wajib)
-- `PORT`: Port server (default: 8989)
+- `PORT`: Port server (default: 3000)
 - `AI_TEMPERATURE`: Kreativitas respons AI (0.0-1.0, default: 0.7)
 - `AI_SYSTEM_PROMPT`: Instruksi sistem untuk AI (default: prompt dokter AI)
 
