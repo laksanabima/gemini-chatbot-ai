@@ -22,7 +22,7 @@ AI Doctor Assistant is a healthcare chatbot application powered by Google Gemini
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:laksanabima/gemini-chatbot-ai.git gemini-chatbot-api
    cd gemini-chatbot-api
    ```
 
